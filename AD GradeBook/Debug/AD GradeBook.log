@@ -1,0 +1,4 @@
+﻿  GradeBook.cpp
+C:\Users\kamsh\Documents\Git.mine\C-2020\AD GradeBook\GradeBook.cpp(118,8): warning C4101: 'error': unreferenced local variable
+C:\Users\kamsh\Documents\Git.mine\C-2020\AD GradeBook\GradeBook.cpp(124): warning C4715: 'GradeBook::inputGrades': not all control paths return a value
+  AD GradeBook.vcxproj -> C:\Users\kamsh\Documents\Git.mine\C-2020\AD GradeBook\Debug\AD GradeBook.exe

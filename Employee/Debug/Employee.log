@@ -1,0 +1,5 @@
+﻿  CISP400V10AD1.cpp
+  Employee.cpp
+  Generating Code...
+C:\Users\kamsh\Documents\Git.mine\C-2020\Employee\Employee.cpp(36,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Employee.vcxproj -> C:\Users\kamsh\Documents\Git.mine\C-2020\Employee\Debug\Employee.exe
